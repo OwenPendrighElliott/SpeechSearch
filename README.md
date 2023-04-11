@@ -49,7 +49,7 @@ A: GANs have seen a lot of applications in recent years that are beneficial to t
 
 2. Install and run Marqo:
 
-    (See the getting start guide for Marqo)[https://github.com/marqo-ai/marqo#Getting-started]
+    [See the getting start guide for Marqo](https://github.com/marqo-ai/marqo#Getting-started)
 
 3. Install FFmpeg for your platform.
 4. [Log in to Hugging Face to get an API key for pyannot speaker-diarization](https://huggingface.co/pyannote/speaker-diarization)
